@@ -10,6 +10,7 @@ function App() {
   return (
     <Router>
       <div className="app-container">
+        <div className="background-blobs"></div>
         <nav className="navbar">
           <div className="nav-content">
             <Link to="/" className="nav-logo">BENNIQ Studio</Link>
